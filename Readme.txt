@@ -2,16 +2,6 @@
 ########################   Code to run JKO-ICNN   ##############################
 ################################################################################
 
-################################################################################
-# The code is released exclusively for review purposes with the following terms:
-# PROPRIETARY AND CONFIDENTIAL. UNAUTHORIZED USE, COPYING, OR DISTRIBUTION OF THE CODE,
-# VIA ANY MEDIUM, IS STRICTLY PROHIBITED. BY ACCESSING THE CODE, THE REVIEWERS AGREE TO
-# DELETE THEM FROM ALL MEDIA AFTER THE REVIEW PERIOD IS OVER.
-
-# This repository is intended for reviewers to have access to the code that generated results
-# and plots in the paper submission.
-################################################################################
-
 
 # Note: This codebase relies on some functions adapted from the CP-Flows paper,
 # included here for convenience.
